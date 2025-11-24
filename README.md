@@ -1,4 +1,4 @@
-# AI Agentic Platform – Sample Site
+# HUMOT
 
 This is a small full‑stack Next.js 14 project styled to match the futuristic AI Agentic screenshots you shared.
 
