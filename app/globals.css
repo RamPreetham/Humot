@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  height: 100%;
+}
+
+body {
+  @apply bg-bg-deep text-slate-100 antialiased;
+}
+
+.hero-gradient {
+  background: radial-gradient(circle at top left, rgba(56,189,248,0.32), transparent 60%),
+              radial-gradient(circle at bottom right, rgba(59,130,246,0.26), transparent 55%);
+}
+
+.cosmic-gradient {
+  background:
+    radial-gradient(circle at top left, rgba(56, 189, 248, 0.25), transparent 60%),
+    radial-gradient(circle at bottom right, rgba(129, 140, 248, 0.25), transparent 60%),
+    radial-gradient(circle at center, rgba(15, 23, 42, 0.95), #020617);
+}
