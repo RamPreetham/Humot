@@ -1,6 +1,6 @@
 # HUMOT
 
-This is a small full‑stack Next.js 14 project styled to match the futuristic AI Agentic screenshots you shared.
+This is a small full‑stack Next.js 14 project styled to match the futuristic AI Agentic platform
 
 It includes:
 
@@ -52,4 +52,4 @@ Then open http://localhost:3000 in your browser.
 - `prisma/` – Prisma schema and seed script.
 - `lib/prisma.ts` – Prisma client singleton.
 
-You can replace the placeholder images referenced in `/public/images/*.jpg` with your own assets to match your brand.
+
